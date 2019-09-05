@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "eName": "Asu",
+      "sal": 100,
+      "dept": "IT"
+    },
+    {
+      "eName": "aaa",
+      "sal": 200,
+      "dept": "Admin"
+    },
+    {
+      "eName": "Asu",
+      "sal": 100,
+      "dept": "IT"
+    }
+  ]
+}
